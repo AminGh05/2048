@@ -3,10 +3,10 @@ It's a simple **2048** game in *terminal*
 
 ## User Interface
 Let's have a look at the main menu:
-1: New Game
-2: Leaderboard
-3: Exit
-> All you've gotta do is to choose a number and either enter a <sub>new game</sub>, review <sub>leaderboard</sub> or <sub>exit</sub> the game
+1. New Game
+2. Leaderboard
+3. Exit
+> All you've gotta do is to choose a number and either enter a **new game**, review **leaderboard** or **exit** the game
 
 ## Game Functionality
 In case you don't know the rules, visit [2048 official page](https://play2048.co/)
